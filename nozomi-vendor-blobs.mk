@@ -58,6 +58,11 @@ PRODUCT_COPY_FILES := \
     vendor/sony/nozomi/proprietary/etc/firmware/dsps_fluid.b02:system/etc/firmware/dsps_fluid.b02 \
     vendor/sony/nozomi/proprietary/etc/firmware/dsps_fluid.b03:system/etc/firmware/dsps_fluid.b03 \
     vendor/sony/nozomi/proprietary/etc/firmware/dsps_fluid.mdt:system/etc/firmware/dsps_fluid.mdt \
+    vendor/sony/nozomi/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
+    vendor/sony/nozomi/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
+    vendor/sony/nozomi/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
+    vendor/sony/nozomi/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
+    vendor/sony/nozomi/proprietary/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
     vendor/sony/nozomi/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
     vendor/sony/nozomi/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
     vendor/sony/nozomi/proprietary/etc/firmware/modem.b00:system/etc/firmware/modem.b00 \
@@ -108,9 +113,12 @@ PRODUCT_COPY_FILES := \
     vendor/sony/nozomi/proprietary/lib/hw/gps.msm8660.so:system/lib/hw/gps.msm8660.so \
     vendor/sony/nozomi/proprietary/lib/hw/nfc.msm8660.so:system/lib/hw/nfc.msm8660.so \
     vendor/sony/nozomi/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
+    vendor/sony/nozomi/proprietary/lib/libllvm-a3xx.so:system/lib/libllvm-a3xx.so \
+    vendor/sony/nozomi/proprietary/lib/libllvm-arm.so:system/lib/libllvm-arm.so \
     vendor/sony/nozomi/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
     vendor/sony/nozomi/proprietary/lib/libMPU3050.so:system/lib/libMPU3050.so \
     vendor/sony/nozomi/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
+    vendor/sony/nozomi/proprietary/lib/libOpenCL.so:system/lib/libOpenCL.so \
     vendor/sony/nozomi/proprietary/lib/lib_asb_tee.so:system/lib/lib_asb_tee.so \
     vendor/sony/nozomi/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/sony/nozomi/proprietary/lib/libacdbmapper.so:system/lib/libacdbmapper.so \
@@ -118,6 +126,7 @@ PRODUCT_COPY_FILES := \
     vendor/sony/nozomi/proprietary/lib/libanthal.so:system/lib/libanthal.so \
     vendor/sony/nozomi/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
     vendor/sony/nozomi/proprietary/lib/libaudioalsa.so:system/lib/libaudioalsa.so \
+    vendor/sony/nozomi/proprietary/lib/libc2d2_a3xx.so:system/lib/libc2d2_a3xx.so \
     vendor/sony/nozomi/proprietary/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so \
     vendor/sony/nozomi/proprietary/lib/libcald_client.so:system/lib/libcald_client.so \
     vendor/sony/nozomi/proprietary/lib/libcald_hal.so:system/lib/libcald_hal.so \
