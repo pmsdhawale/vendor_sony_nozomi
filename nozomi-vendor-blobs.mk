@@ -34,6 +34,7 @@ PRODUCT_COPY_FILES := \
     vendor/sony/nozomi/proprietary/bin/nvcustomizer:system/bin/nvcustomizer \
     vendor/sony/nozomi/proprietary/bin/nvimport:system/bin/nvimport \
     vendor/sony/nozomi/proprietary/bin/qmuxd:system/bin/qmuxd \
+    vendor/sony/nozomi/proprietary/bin/qrngd:system/bin/qrngd \
     vendor/sony/nozomi/proprietary/bin/rild:system/bin/rild \
     vendor/sony/nozomi/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/sony/nozomi/proprietary/bin/secchand:system/bin/secchand \
