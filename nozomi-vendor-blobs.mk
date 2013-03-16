@@ -59,6 +59,8 @@ PRODUCT_COPY_FILES := \
     vendor/sony/nozomi/proprietary/etc/firmware/dsps_fluid.b02:system/etc/firmware/dsps_fluid.b02 \
     vendor/sony/nozomi/proprietary/etc/firmware/dsps_fluid.b03:system/etc/firmware/dsps_fluid.b03 \
     vendor/sony/nozomi/proprietary/etc/firmware/dsps_fluid.mdt:system/etc/firmware/dsps_fluid.mdt \
+    vendor/sony/nozomi/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
+    vendor/sony/nozomi/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
     vendor/sony/nozomi/proprietary/etc/firmware/modem.b00:system/etc/firmware/modem.b00 \
     vendor/sony/nozomi/proprietary/etc/firmware/modem.b01:system/etc/firmware/modem.b01 \
     vendor/sony/nozomi/proprietary/etc/firmware/modem.b02:system/etc/firmware/modem.b02 \
@@ -89,6 +91,8 @@ PRODUCT_COPY_FILES := \
     vendor/sony/nozomi/proprietary/etc/firmware/tzapps.b01:system/etc/firmware/tzapps.b01 \
     vendor/sony/nozomi/proprietary/etc/firmware/tzapps.b02:system/etc/firmware/tzapps.b02 \
     vendor/sony/nozomi/proprietary/etc/firmware/tzapps.mdt:system/etc/firmware/tzapps.mdt \
+    vendor/sony/nozomi/proprietary/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
+    vendor/sony/nozomi/proprietary/etc/firmware/vidcfw.elf:system/etc/firmware/vidcfw.elf \
     vendor/sony/nozomi/proprietary/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
     vendor/sony/nozomi/proprietary/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
     vendor/sony/nozomi/proprietary/etc/flashled_calc_parameters.cfg:system/etc/flashled_calc_parameters.cfg \
@@ -178,10 +182,6 @@ PRODUCT_COPY_FILES := \
     vendor/sony/nozomi/proprietary-mako/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
     vendor/sony/nozomi/proprietary-mako/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
     vendor/sony/nozomi/proprietary-mako/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
-    vendor/sony/nozomi/proprietary-mako/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
-    vendor/sony/nozomi/proprietary-mako/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
-    vendor/sony/nozomi/proprietary-mako/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
-    vendor/sony/nozomi/proprietary-mako/etc/firmware/vidcfw.elf:system/etc/firmware/vidcfw.elf \
     vendor/sony/nozomi/proprietary-mako/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
     vendor/sony/nozomi/proprietary-mako/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
     vendor/sony/nozomi/proprietary-mako/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
