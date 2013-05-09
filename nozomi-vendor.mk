@@ -77,7 +77,6 @@ vendor/sony/nozomi/prop-cm10/etc/firmware/leia_pm4_470.fw:system/etc/firmware/le
 vendor/sony/nozomi/prop-cm10/etc/firmware/q6.b05:system/etc/firmware/q6.b05 \
 vendor/sony/nozomi/prop-cm10/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
 vendor/sony/nozomi/prop-cm10/etc/firmware/fw_bcm4330b1_apsta.bin:system/etc/firmware/fw_bcm4330b1_apsta.bin \
-vendor/sony/nozomi/prop-cm10/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
 vendor/sony/nozomi/prop-cm10/etc/thermald-lt26.conf:system/etc/thermald-lt26.conf \
 vendor/sony/nozomi/prop-cm10/vendor:system/vendor \
 vendor/sony/nozomi/prop-cm10/vendor/camera:system/vendor/camera \
@@ -186,8 +185,12 @@ vendor/sony/nozomi/prop-cm10/lib/libacdbmapper.so:system/lib/libacdbmapper.so
 PRODUCT_COPY_FILES += \
 vendor/sony/nozomi/prop-mako/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
 vendor/sony/nozomi/prop-mako/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
+vendor/sony/nozomi/prop-mako/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
+vendor/sony/nozomi/prop-mako/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
+vendor/sony/nozomi/prop-mako/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
 vendor/sony/nozomi/prop-mako/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
 vendor/sony/nozomi/prop-mako/libC2D2.so:system/lib/libC2D2.so \
+vendor/sony/nozomi/prop-mako/libc2d2_a3xx.so:system/lib/libc2d2_a3xx.so \
 vendor/sony/nozomi/prop-mako/libc2d2_z180.so:system/lib/libc2d2_z180.so \
 vendor/sony/nozomi/prop-mako/libcsd-client.so:system/lib/libcsd-client.so \
 vendor/sony/nozomi/prop-mako/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
@@ -196,9 +199,12 @@ vendor/sony/nozomi/prop-mako/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adr
 vendor/sony/nozomi/prop-mako/libGLESv2S3D_adreno200.so:system/lib/egl/libGLESv2S3D_adreno200.so \
 vendor/sony/nozomi/prop-mako/libgsl.so:system/lib/libgsl.so \
 vendor/sony/nozomi/prop-mako/libI420colorconvert.so:system/lib/libI420colorconvert.so \
+vendor/sony/nozomi/prop-mako/libllvm-a3xx.so:system/lib/libllvm-a3xx.so \
+vendor/sony/nozomi/prop-mako/libllvm-arm.so:system/lib/libllvm-arm.so \
 vendor/sony/nozomi/prop-mako/libmercury.so:system/lib/libmercury.so \
 vendor/sony/nozomi/prop-mako/libOpenCL.so:system/lib/libOpenCL.so \
 vendor/sony/nozomi/prop-mako/libOpenVG.so:system/lib/libOpenVG.so \
 vendor/sony/nozomi/prop-mako/libplayback_adreno200.so:system/lib/egl/libplayback_adreno200.so \
 vendor/sony/nozomi/prop-mako/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
-vendor/sony/nozomi/prop-mako/libsc-a2xx.so:system/lib/libsc-a2xx.so
+vendor/sony/nozomi/prop-mako/libsc-a2xx.so:system/lib/libsc-a2xx.so \
+vendor/sony/nozomi/prop-mako/libsc-a3xx.so:system/lib/libsc-a3xx.so
