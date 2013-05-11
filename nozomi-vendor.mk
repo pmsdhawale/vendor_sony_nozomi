@@ -14,6 +14,7 @@
 
 PRODUCT_COPY_FILES += \
 vendor/sony/nozomi/device/bin:system/bin \
+vendor/sony/nozomi/device/bin/clearpad_fwloader:system/bin/clearpad_fwloader \
 vendor/sony/nozomi/device/bin/secchand:system/bin/secchand \
 vendor/sony/nozomi/device/bin/suntrold:system/bin/suntrold \
 vendor/sony/nozomi/device/bin/thermald:system/bin/thermald \
@@ -22,6 +23,7 @@ vendor/sony/nozomi/device/bin/updatemiscta:system/bin/updatemiscta \
 vendor/sony/nozomi/device/bin/semc-atfwd-d:system/bin/semc-atfwd-d \
 vendor/sony/nozomi/device/bin/ta_reader:system/bin/ta_reader \
 vendor/sony/nozomi/device/bin/ta_rmt_service:system/bin/ta_rmt_service \
+vendor/sony/nozomi/device/etc/clearpad_fwloader.sh:system/etc/clearpad_fwloader.sh \
 vendor/sony/nozomi/device/etc/sensors.conf:system/etc/sensors.conf \
 vendor/sony/nozomi/device/etc/fast-dormancy:system/etc/fast-dormancy \
 vendor/sony/nozomi/device/etc/fast-dormancy/fd_int_conf.txt:system/etc/fast-dormancy/fd_int_conf.txt \
