@@ -76,6 +76,7 @@ vendor/sony/nozomi/device/etc/firmware/modem.b09:system/etc/firmware/modem.b09 \
 vendor/sony/nozomi/device/etc/firmware/q6.b05:system/etc/firmware/q6.b05 \
 vendor/sony/nozomi/device/etc/firmware/fw_bcm4330b1_apsta.bin:system/etc/firmware/fw_bcm4330b1_apsta.bin \
 vendor/sony/nozomi/device/etc/thermald-lt26.conf:system/etc/thermald-lt26.conf \
+vendor/sony/nozomi/device/etc/permissions/com.dsi.ant.antradio_library.xml:system/etc/permissions/com.dsi.ant.antradio_library.xml \
 vendor/sony/nozomi/device/etc/wifi/calibration:system/etc/wifi/calibration \
 vendor/sony/nozomi/device/vendor:system/vendor \
 vendor/sony/nozomi/device/vendor/camera:system/vendor/camera \
