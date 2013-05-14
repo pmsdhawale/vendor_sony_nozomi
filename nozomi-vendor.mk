@@ -79,6 +79,7 @@ vendor/sony/nozomi/device/etc/firmware/fw_bcm4330b1_apsta.bin:system/etc/firmwar
 vendor/sony/nozomi/device/etc/thermald-lt26.conf:system/etc/thermald-lt26.conf \
 vendor/sony/nozomi/device/etc/permissions/com.dsi.ant.antradio_library.xml:system/etc/permissions/com.dsi.ant.antradio_library.xml \
 vendor/sony/nozomi/device/etc/wifi/calibration:system/etc/wifi/calibration \
+vendor/sony/nozomi/device/framework/com.dsi.ant.antradio_library.jar:system/framework/com.dsi.ant.antradio_library.jar \
 vendor/sony/nozomi/device/vendor:system/vendor \
 vendor/sony/nozomi/device/vendor/camera:system/vendor/camera \
 vendor/sony/nozomi/device/vendor/camera/APT01BM0.dat:system/vendor/camera/APT01BM0.dat \
@@ -96,6 +97,7 @@ vendor/sony/nozomi/device/vendor/camera/KMO13BS0.dat:system/vendor/camera/KMO13B
 vendor/sony/nozomi/device/vendor/firmware:system/vendor/firmware \
 vendor/sony/nozomi/device/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
 vendor/sony/nozomi/device/lib:system/lib \
+vendor/sony/nozomi/device/lib/libanthal.so:system/lib/libanthal.so \
 vendor/sony/nozomi/device/lib/libcald_pal.so:system/lib/libcald_pal.so \
 vendor/sony/nozomi/device/lib/libcameraextensionservice.so:system/lib/libcameraextensionservice.so \
 vendor/sony/nozomi/device/lib/libidl.so:system/lib/libidl.so \
