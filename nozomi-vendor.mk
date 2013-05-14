@@ -215,6 +215,17 @@ vendor/sony/nozomi/qcom-common/proprietary/lib/libllvm-arm.so:system/lib/libllvm
 vendor/sony/nozomi/qcom-common/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
 vendor/sony/nozomi/qcom-common/proprietary/lib/libsc-a3xx.so:system/lib/libsc-a3xx.so
 
-# qcom APK:
-#PRODUCT_COPY_FILES += \
-#vendor/sony/nozomi/qcom-common/proprietary/app/ProfilerPlaybackTools.apk:system/app/ProfilerPlaybackTools.apk \
+# Qualcomm Tools APK
+PRODUCT_PACKAGES += \
+    ProfilerPlaybackTools
+
+# ANT+ support
+PRODUCT_PACKAGES += \
+    AntHalService \
+    antradioservice \
+    antstatenotifer
+
+# OpenSEMC APK
+PRODUCT_PACKAGES += \
+    OpenSEMC
+
