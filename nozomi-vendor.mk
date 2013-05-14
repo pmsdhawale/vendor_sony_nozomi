@@ -225,7 +225,3 @@ PRODUCT_PACKAGES += \
     antradioservice \
     antstatenotifer
 
-# OpenSEMC APK
-PRODUCT_PACKAGES += \
-    OpenSEMC
-
