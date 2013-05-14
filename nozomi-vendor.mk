@@ -24,6 +24,7 @@ vendor/sony/nozomi/device/bin/semc-atfwd-d:system/bin/semc-atfwd-d \
 vendor/sony/nozomi/device/bin/ta_reader:system/bin/ta_reader \
 vendor/sony/nozomi/device/bin/ta_rmt_service:system/bin/ta_rmt_service \
 vendor/sony/nozomi/device/etc/clearpad_fwloader.sh:system/etc/clearpad_fwloader.sh \
+vendor/sony/nozomi/device/etc/flashled_calc_parameters.cfg:system/etc/flashled_calc_parameters.cfg \
 vendor/sony/nozomi/device/etc/sensors.conf:system/etc/sensors.conf \
 vendor/sony/nozomi/device/etc/fast-dormancy:system/etc/fast-dormancy \
 vendor/sony/nozomi/device/etc/fast-dormancy/fd_int_conf.txt:system/etc/fast-dormancy/fd_int_conf.txt \
