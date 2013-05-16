@@ -24,8 +24,6 @@ vendor/sony/nozomi/device/bin/semc-atfwd-d:system/bin/semc-atfwd-d \
 vendor/sony/nozomi/device/bin/ta_reader:system/bin/ta_reader \
 vendor/sony/nozomi/device/bin/ta_rmt_service:system/bin/ta_rmt_service \
 vendor/sony/nozomi/device/etc/clearpad_fwloader.sh:system/etc/clearpad_fwloader.sh \
-vendor/sony/nozomi/device/etc/flashled_calc_parameters.cfg:system/etc/flashled_calc_parameters.cfg \
-vendor/sony/nozomi/device/etc/sensors.conf:system/etc/sensors.conf \
 vendor/sony/nozomi/device/etc/fast-dormancy:system/etc/fast-dormancy \
 vendor/sony/nozomi/device/etc/fast-dormancy/fd_int_conf.txt:system/etc/fast-dormancy/fd_int_conf.txt \
 vendor/sony/nozomi/device/etc/fast-dormancy/fd_ext_conf.txt:system/etc/fast-dormancy/fd_ext_conf.txt \
@@ -76,7 +74,6 @@ vendor/sony/nozomi/device/etc/firmware/fw_bcm4330b2_p2p.bin:system/etc/firmware/
 vendor/sony/nozomi/device/etc/firmware/modem.b09:system/etc/firmware/modem.b09 \
 vendor/sony/nozomi/device/etc/firmware/q6.b05:system/etc/firmware/q6.b05 \
 vendor/sony/nozomi/device/etc/firmware/fw_bcm4330b1_apsta.bin:system/etc/firmware/fw_bcm4330b1_apsta.bin \
-vendor/sony/nozomi/device/etc/thermald-lt26.conf:system/etc/thermald-lt26.conf \
 vendor/sony/nozomi/device/etc/permissions/com.dsi.ant.antradio_library.xml:system/etc/permissions/com.dsi.ant.antradio_library.xml \
 vendor/sony/nozomi/device/vendor:system/vendor \
 vendor/sony/nozomi/device/vendor/camera:system/vendor/camera \
