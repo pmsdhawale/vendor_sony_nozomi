@@ -130,6 +130,7 @@ vendor/sony/nozomi/device/lib/liboemcamera.so:system/lib/liboemcamera.so \
 vendor/sony/nozomi/device/lib/libcald_server.so:system/lib/libcald_server.so \
 vendor/sony/nozomi/device/lib/libthermal_mitigation.so:system/lib/libthermal_mitigation.so \
 vendor/sony/nozomi/device/lib/libs1sl.so:system/lib/libs1sl.so \
+vendor/sony/nozomi/device/lib/libsensors_akm8972.so:system/lib/libsensors_akm8972.so \
 vendor/sony/nozomi/device/lib/libvorbisencoder.so:system/lib/libvorbisencoder.so \
 vendor/sony/nozomi/device/lib/libMPU3050.so:system/lib/libMPU3050.so \
 vendor/sony/nozomi/device/lib/lib_asb_tee.so:system/lib/lib_asb_tee.so \
