@@ -121,7 +121,6 @@ vendor/sony/nozomi/device/lib/libthermal_mitigation_fusion.so:system/lib/libther
 vendor/sony/nozomi/device/lib/hw:system/lib/hw \
 vendor/sony/nozomi/device/lib/hw/camera.msm8660.so:system/lib/hw/camera.msm8660.so \
 vendor/sony/nozomi/device/lib/hw/gps.msm8660.so:system/lib/hw/gps.msm8660.so \
-vendor/sony/nozomi/device/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
 vendor/sony/nozomi/device/lib/libidd.so:system/lib/libidd.so \
 vendor/sony/nozomi/device/lib/libnv.so:system/lib/libnv.so \
 vendor/sony/nozomi/device/lib/libcamera_clientsemc.so:system/lib/libcamera_clientsemc.so \
