@@ -121,6 +121,8 @@ vendor/sony/nozomi/device/lib/libthermal_mitigation_fusion.so:system/lib/libther
 vendor/sony/nozomi/device/lib/hw:system/lib/hw \
 vendor/sony/nozomi/device/lib/hw/camera.msm8660.so:system/lib/hw/camera.msm8660.so \
 vendor/sony/nozomi/device/lib/hw/gps.msm8660.so:system/lib/hw/gps.msm8660.so \
+vendor/sony/nozomi/device/lib/hw/nfc.msm8660.so:system/lib/hw/nfc.msm8660.so \
+vendor/sony/nozomi/device/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
 vendor/sony/nozomi/device/lib/libidd.so:system/lib/libidd.so \
 vendor/sony/nozomi/device/lib/libnv.so:system/lib/libnv.so \
 vendor/sony/nozomi/device/lib/libcamera_clientsemc.so:system/lib/libcamera_clientsemc.so \
@@ -165,11 +167,9 @@ vendor/sony/nozomi/device/bin/qmuxd:system/bin/qmuxd \
 vendor/sony/nozomi/device/bin/qrngd:system/bin/qrngd \
 vendor/sony/nozomi/device/bin/rmt_storage:system/bin/rmt_storage \
 vendor/sony/nozomi/device/bin/tad:system/bin/tad \
-vendor/sony/nozomi/device/lib/hw/camera.msm8660.so:system/lib/hw/camera.msm8660.so \
 vendor/sony/nozomi/device/lib/libface.so:system/lib/libface.so \
 vendor/sony/nozomi/device/bin/rild:system/bin/rild \
 vendor/sony/nozomi/device/lib/libril.so:system/lib/libril.so \
-vendor/sony/nozomi/device/lib/hw/nfc.msm8660.so:system/lib/hw/nfc.msm8660.so \
 vendor/sony/nozomi/device/lib/libaudioalsa.so:obj/lib/libaudioalsa.so \
 vendor/sony/nozomi/device/lib/libaudioalsa.so:system/lib/libaudioalsa.so \
 vendor/sony/nozomi/device/lib/libacdbloader.so:obj/lib/libacdbloader.so \
